@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+places i use
+- unsplash.com
+- youtube
+- w3schools
+- https://color.adobe.com/create/color-wheel
+- https://www.lucidchart.com/pages/
+- https://colab.research.google.com/
+- https://www.freeimages.com/
+-->
